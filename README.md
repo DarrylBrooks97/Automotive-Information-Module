@@ -1,1 +1,1 @@
-# Home-Security-System
+Using an Arduino Mega 2560 I have simulated the Automotive Information Module 2.4 (A.I.M. 2.4) from Syntech Systems - FUELMASTER. This device eliminates incorrect driver data upon fueling. The LCD screen serves as the car's dashboard display, showing the driver the fuel level, current mileage, vehicle's efficiency, fuel type, and a real time clock/date.
